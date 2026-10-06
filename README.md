@@ -2,7 +2,7 @@
 
 This package contains the benchmark and scheduler source, formal run protocol,
 the six formal result sets, and scripts for reproducing analyses and figures.
-The manuscript source is maintained separately in `LinVeriX.zip`.
+
 
 ## Experimental protocol
 
